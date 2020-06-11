@@ -1,0 +1,131 @@
+movie_id,movie title,avg(number_lines),min(number_lines),max(number_lines)
+m479,pretty woman,3.6364,2,6
+m294,cherry falls,4.9091,2,16
+m186,smokin' aces,3.1111,2,7
+m540,supergirl,2.6486,2,7
+m129,man on fire,2.25,2,3
+m0,10 things i hate about you,2.7647,2,6
+m130,marty,4.2222,2,9
+m216,thelma & louise,3.3182,2,9
+m378,halloween 4: the return of michael myers,3.375,2,9
+m538,sugar & spice,3.2308,2,12
+m244,the anniversary party,3.2667,2,11
+m281,bound,2.9474,2,7
+m238,all about eve,3.5405,2,15
+m30,big fish,2.3333,2,3
+m516,sister act,2.1333,2,3
+m313,the curse of the cat people,3.7949,2,17
+m298,citizen kane,4.2727,2,16
+m132,meet john doe,13.0,13,13
+m575,transatlantic merry-go-round,2.0,2,2
+m435,meet joe black,2.0,2,2
+m155,panic room,3.7083,2,11
+m208,the birds,3.5769,2,9
+m92,house of 1000 corpses,3.4737,2,10
+m312,cruel intentions,2.8889,2,5
+m224,twin peaks: fire walk with me,4.0,2,18
+m44,the cider house rules,2.0,2,2
+m341,the exorcist,3.2381,2,8
+m91,hope and glory,2.625,2,4
+m384,heavenly creatures,3.3636,2,15
+m117,legally blonde,2.8182,2,6
+m405,jaws: the revenge,2.25,2,3
+m606,wild things,2.5556,2,4
+m105,jackie brown,4.3333,2,7
+m163,punch-drunk love,2.25,2,3
+m498,runaway bride,2.5556,2,5
+m469,peggy sue got married,2.48,2,5
+m51,drop dead gorgeous,3.9583,2,10
+m8,a nightmare on elm street: the dream child,2.2,2,4
+m55,eternal sunshine of the spotless mind,2.5,2,3
+m173,serial mom,3.4615,2,9
+m39,the bourne supremacy,2.0,2,2
+m537,suburbia,3.25,2,6
+m279,the bridges of madison county,2.1667,2,3
+m140,mr. deeds goes to town,2.4,2,4
+m87,hellraiser,4.25,2,5
+m376,the horse whisperer,3.0625,2,9
+m66,g.i. jane,3.5,3,4
+m396,i walked with a zombie,3.4,3,5
+m174,the seventh victim,4.0,2,8
+m461,a nightmare on elm street 3: dream warriors,2.5556,2,4
+m314,the curse,2.9412,2,6
+m561,le grand bleu,3.1667,2,5
+m400,i still know what you did last summer,2.4348,2,5
+m287,buffy the vampire slayer,2.5,2,4
+m427,love & basketball,3.25,2,8
+m240,american pie,2.0,2,2
+m362,friday the 13th part viii: jason takes manhattan,3.4167,2,6
+m392,house of the damned,2.3571,2,5
+m380,hannah and her sisters,2.8966,2,7
+m448,mulholland dr.,3.5333,2,6
+m138,my mother dreams the satan's disciples in new york,4.7778,2,18
+m266,being there,2.3333,2,3
+m408,jerry maguire,2.2,2,3
+m78,grand hotel,3.25,2,6
+m161,platinum blonde,2.0,2,2
+m109,juno,3.1111,2,18
+m569,the thin man,4.2857,2,10
+m505,scream 2,3.0,2,8
+m336,erin brockovich,3.6429,2,9
+m379,halloween,3.75,2,12
+m149,ninotchka,4.6667,2,14
+m56,even cowgirls get the blues,3.0,2,4
+m306,copycat,2.7,2,5
+m158,pet sematary,2.3333,2,3
+m102,intolerable cruelty,2.4444,2,4
+m551,the haunting,2.8,2,8
+m485,mystery of the wax museum,2.0,2,2
+m154,an officer and a gentleman,3.0,2,6
+m103,it happened one night,5.0,2,9
+m401,isle of the dead,2.5,2,3
+m308,crazy love,2.5641,2,6
+m234,agnes of god,8.3803,2,44
+m59,fast times at ridgemont high,3.5333,2,9
+m175,sex lies and videotape,3.75,2,13
+m310,crouching tiger hidden dragon,3.8571,2,12
+m165,rko 281,6.0,2,10
+m57,event horizon,2.2,2,3
+m450,my girl 2,3.2,2,8
+m349,final destination 2,2.8125,2,5
+m290,catwoman,3.4,2,8
+m72,ghost world,3.6071,2,11
+m557,the cell,3.0,3,3
+m464,only you,3.0,2,9
+m110,kalifornia,2.5,2,4
+m444,moonstruck,3.2222,2,9
+m506,scream 3,3.4,2,9
+m152,nurse betty,4.0,2,10
+m458,never been kissed,3.2857,2,7
+m359,friday the 13th part iii,2.4,2,4
+m268,beloved,6.6667,2,13
+m573,trouble in paradise,2.5,2,3
+m467,out of sight,2.0,2,2
+m265,beetle juice,2.2857,2,3
+m210,the crow: salvation,2.875,2,6
+m162,pleasantville,3.0,2,5
+m352,the fisher king,3.0909,2,9
+m62,frances,2.8095,2,5
+m15,aliens,2.95,2,8
+m452,my best friend's wedding,2.3125,2,3
+m533,stepmom,2.7798,2,12
+m249,as good as it gets,2.5,2,3
+m267,being john malkovich,2.6667,2,3
+m397,the ice storm,4.2857,2,9
+m344,the family man,2.3333,2,3
+m499,sleepless in seattle,3.4286,2,6
+m393,hellraiser iii: hell on earth,2.5789,2,4
+m507,scream,2.8824,2,8
+m229,wild at heart,4.0,4,4
+m327,dumb and dumberer: when harry met lloyd,4.6667,3,6
+m601,what lies beneath,3.7576,2,9
+m273,book of shadows: blair witch 2,2.8,2,9
+m148,a nightmare on elm street,2.8333,2,5
+m23,the avengers,3.3333,2,6
+m451,my girl,3.1923,2,8
+m171,roughshod,3.0,2,7
+m217,there's something about mary,2.3333,2,4
+m184,slither,2.8,2,5
+m493,romeo and juliet,2.0,2,2
+m111,kids,4.0,2,8
+m610,the wizard of oz,2.375,2,3
